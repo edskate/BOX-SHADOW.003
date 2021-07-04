@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+}
+div{
+    border: 2px solid;
+    width: 25%;
+    margin: 10%;
+    text-align: center;
+    text-shadow: 2px 3px 4px ;
+    border-color: blue;
+    border-radius:7%;
+    box-shadow: inset 2px 3px 4px ;
+
+}
+img{
+    border-radius: 20%;
+    box-shadow: inset 2px 3px 4px ;
+    width: 80%;
+    margin: 10%;
+    
+}
